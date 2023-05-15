@@ -1,0 +1,3440 @@
+fileFormatVersion: 2
+guid: a0b8aad280e542e4a9e206060872a512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 198427439556398768
+    second: PC Computer - Katana ZERO - Fifteen_0
+  - first:
+      213: -7504208366600057679
+    second: PC Computer - Katana ZERO - Fifteen_1
+  - first:
+      213: 4095810180058725989
+    second: PC Computer - Katana ZERO - Fifteen_2
+  - first:
+      213: 4619528336694721704
+    second: PC Computer - Katana ZERO - Fifteen_3
+  - first:
+      213: 2896159240344494215
+    second: PC Computer - Katana ZERO - Fifteen_4
+  - first:
+      213: 2780556501764312966
+    second: PC Computer - Katana ZERO - Fifteen_5
+  - first:
+      213: -3370255273780060435
+    second: PC Computer - Katana ZERO - Fifteen_6
+  - first:
+      213: 6122836957333401217
+    second: PC Computer - Katana ZERO - Fifteen_7
+  - first:
+      213: -7027439525826070203
+    second: PC Computer - Katana ZERO - Fifteen_8
+  - first:
+      213: -2957775087841673338
+    second: PC Computer - Katana ZERO - Fifteen_9
+  - first:
+      213: 147105030996323230
+    second: PC Computer - Katana ZERO - Fifteen_10
+  - first:
+      213: 7110525341679880198
+    second: PC Computer - Katana ZERO - Fifteen_11
+  - first:
+      213: -3309366884836126625
+    second: PC Computer - Katana ZERO - Fifteen_12
+  - first:
+      213: 3770026813573282635
+    second: PC Computer - Katana ZERO - Fifteen_13
+  - first:
+      213: -5082542260380038360
+    second: PC Computer - Katana ZERO - Fifteen_14
+  - first:
+      213: 3513015277970409356
+    second: PC Computer - Katana ZERO - Fifteen_15
+  - first:
+      213: -8909255466624409913
+    second: PC Computer - Katana ZERO - Fifteen_16
+  - first:
+      213: 3237500127221779828
+    second: PC Computer - Katana ZERO - Fifteen_17
+  - first:
+      213: 1998510956028365957
+    second: PC Computer - Katana ZERO - Fifteen_18
+  - first:
+      213: 482083791238540053
+    second: PC Computer - Katana ZERO - Fifteen_19
+  - first:
+      213: -475570688952944480
+    second: PC Computer - Katana ZERO - Fifteen_20
+  - first:
+      213: 5060074904594923666
+    second: PC Computer - Katana ZERO - Fifteen_21
+  - first:
+      213: -2396062739077270513
+    second: PC Computer - Katana ZERO - Fifteen_22
+  - first:
+      213: -2345205396688837888
+    second: PC Computer - Katana ZERO - Fifteen_23
+  - first:
+      213: -6340544655165183226
+    second: PC Computer - Katana ZERO - Fifteen_24
+  - first:
+      213: 2309078395352393835
+    second: PC Computer - Katana ZERO - Fifteen_25
+  - first:
+      213: 1077554453902734661
+    second: PC Computer - Katana ZERO - Fifteen_26
+  - first:
+      213: -8542590043766075213
+    second: PC Computer - Katana ZERO - Fifteen_27
+  - first:
+      213: -1735275446112333323
+    second: PC Computer - Katana ZERO - Fifteen_28
+  - first:
+      213: 6757772700495960724
+    second: PC Computer - Katana ZERO - Fifteen_29
+  - first:
+      213: -5493510551912920344
+    second: PC Computer - Katana ZERO - Fifteen_30
+  - first:
+      213: -1364368535358746268
+    second: PC Computer - Katana ZERO - Fifteen_31
+  - first:
+      213: -3111516340246550039
+    second: PC Computer - Katana ZERO - Fifteen_32
+  - first:
+      213: 8649229739205742501
+    second: PC Computer - Katana ZERO - Fifteen_33
+  - first:
+      213: -6765493039999401868
+    second: PC Computer - Katana ZERO - Fifteen_34
+  - first:
+      213: -1807375359512429481
+    second: PC Computer - Katana ZERO - Fifteen_35
+  - first:
+      213: 3554005336169132013
+    second: PC Computer - Katana ZERO - Fifteen_36
+  - first:
+      213: -5945398292691606852
+    second: PC Computer - Katana ZERO - Fifteen_37
+  - first:
+      213: -4951552908526923327
+    second: PC Computer - Katana ZERO - Fifteen_38
+  - first:
+      213: 8743372582291591588
+    second: PC Computer - Katana ZERO - Fifteen_39
+  - first:
+      213: -9092508513640344792
+    second: PC Computer - Katana ZERO - Fifteen_40
+  - first:
+      213: 1699523013469537559
+    second: PC Computer - Katana ZERO - Fifteen_41
+  - first:
+      213: -5894296533681795757
+    second: PC Computer - Katana ZERO - Fifteen_42
+  - first:
+      213: -3693932382757417341
+    second: PC Computer - Katana ZERO - Fifteen_43
+  - first:
+      213: 698248254922526504
+    second: PC Computer - Katana ZERO - Fifteen_44
+  - first:
+      213: 4916078517818385061
+    second: PC Computer - Katana ZERO - Fifteen_45
+  - first:
+      213: -3585085050128565703
+    second: PC Computer - Katana ZERO - Fifteen_46
+  - first:
+      213: -664504552722963730
+    second: PC Computer - Katana ZERO - Fifteen_47
+  - first:
+      213: 5068554336453312180
+    second: PC Computer - Katana ZERO - Fifteen_48
+  - first:
+      213: 8664606941922304936
+    second: PC Computer - Katana ZERO - Fifteen_49
+  - first:
+      213: -1329238900833126345
+    second: PC Computer - Katana ZERO - Fifteen_50
+  - first:
+      213: -8586932802966260536
+    second: PC Computer - Katana ZERO - Fifteen_51
+  - first:
+      213: 2966539572943143561
+    second: PC Computer - Katana ZERO - Fifteen_52
+  - first:
+      213: 5797609330521586385
+    second: PC Computer - Katana ZERO - Fifteen_53
+  - first:
+      213: 3792224625732089883
+    second: PC Computer - Katana ZERO - Fifteen_54
+  - first:
+      213: -6239101313933156274
+    second: PC Computer - Katana ZERO - Fifteen_55
+  - first:
+      213: 6628134292013076693
+    second: PC Computer - Katana ZERO - Fifteen_56
+  - first:
+      213: -1957719233169632377
+    second: PC Computer - Katana ZERO - Fifteen_57
+  - first:
+      213: -6548266328489100166
+    second: PC Computer - Katana ZERO - Fifteen_58
+  - first:
+      213: 4973597538356867655
+    second: PC Computer - Katana ZERO - Fifteen_59
+  - first:
+      213: 6248477966295186906
+    second: PC Computer - Katana ZERO - Fifteen_60
+  - first:
+      213: 571907405679568263
+    second: PC Computer - Katana ZERO - Fifteen_61
+  - first:
+      213: -7852590614770385974
+    second: PC Computer - Katana ZERO - Fifteen_62
+  - first:
+      213: 2637970382885299246
+    second: PC Computer - Katana ZERO - Fifteen_63
+  - first:
+      213: 2030460557888223815
+    second: PC Computer - Katana ZERO - Fifteen_64
+  - first:
+      213: -7546031701304758197
+    second: PC Computer - Katana ZERO - Fifteen_65
+  - first:
+      213: 7615674631683486099
+    second: PC Computer - Katana ZERO - Fifteen_66
+  - first:
+      213: 3239996943959607667
+    second: PC Computer - Katana ZERO - Fifteen_67
+  - first:
+      213: 3527705818979680003
+    second: PC Computer - Katana ZERO - Fifteen_68
+  - first:
+      213: 1911547735904061955
+    second: PC Computer - Katana ZERO - Fifteen_69
+  - first:
+      213: 6318298286105091980
+    second: PC Computer - Katana ZERO - Fifteen_70
+  - first:
+      213: 4997382304409383305
+    second: PC Computer - Katana ZERO - Fifteen_71
+  - first:
+      213: -2164812308856238093
+    second: PC Computer - Katana ZERO - Fifteen_72
+  - first:
+      213: -7573538284773151156
+    second: PC Computer - Katana ZERO - Fifteen_73
+  - first:
+      213: 5689392258121826624
+    second: PC Computer - Katana ZERO - Fifteen_74
+  - first:
+      213: 2508311950826772049
+    second: PC Computer - Katana ZERO - Fifteen_75
+  - first:
+      213: -1075452999742953543
+    second: PC Computer - Katana ZERO - Fifteen_76
+  - first:
+      213: 984495232860362678
+    second: PC Computer - Katana ZERO - Fifteen_77
+  - first:
+      213: 6845723526337754662
+    second: PC Computer - Katana ZERO - Fifteen_78
+  - first:
+      213: 8778340731231052483
+    second: PC Computer - Katana ZERO - Fifteen_79
+  - first:
+      213: 7856245697590868520
+    second: PC Computer - Katana ZERO - Fifteen_80
+  - first:
+      213: 8802830943941939872
+    second: PC Computer - Katana ZERO - Fifteen_81
+  - first:
+      213: 2484982351242716754
+    second: PC Computer - Katana ZERO - Fifteen_82
+  - first:
+      213: 2498448561506498891
+    second: PC Computer - Katana ZERO - Fifteen_83
+  - first:
+      213: 4763597221897868130
+    second: PC Computer - Katana ZERO - Fifteen_84
+  - first:
+      213: 5510205683143972597
+    second: PC Computer - Katana ZERO - Fifteen_85
+  - first:
+      213: 1205288548369838345
+    second: PC Computer - Katana ZERO - Fifteen_86
+  - first:
+      213: -6820953829104541872
+    second: PC Computer - Katana ZERO - Fifteen_87
+  - first:
+      213: -8389479819291513735
+    second: PC Computer - Katana ZERO - Fifteen_88
+  - first:
+      213: 9138007513425523498
+    second: PC Computer - Katana ZERO - Fifteen_89
+  - first:
+      213: -7659075524687572361
+    second: PC Computer - Katana ZERO - Fifteen_90
+  - first:
+      213: -2159806391120685365
+    second: PC Computer - Katana ZERO - Fifteen_91
+  - first:
+      213: 4049288767049399046
+    second: PC Computer - Katana ZERO - Fifteen_92
+  - first:
+      213: -6443607692069240448
+    second: PC Computer - Katana ZERO - Fifteen_93
+  - first:
+      213: 6305179751848490100
+    second: PC Computer - Katana ZERO - Fifteen_94
+  - first:
+      213: 7983789222407733738
+    second: PC Computer - Katana ZERO - Fifteen_95
+  - first:
+      213: -7964473220887342421
+    second: PC Computer - Katana ZERO - Fifteen_96
+  - first:
+      213: 2601013192700914503
+    second: PC Computer - Katana ZERO - Fifteen_97
+  - first:
+      213: 7162504431210072180
+    second: PC Computer - Katana ZERO - Fifteen_98
+  - first:
+      213: -1102818151831142798
+    second: PC Computer - Katana ZERO - Fifteen_99
+  - first:
+      213: 3305622812968462154
+    second: PC Computer - Katana ZERO - Fifteen_100
+  - first:
+      213: 8821625810113611891
+    second: PC Computer - Katana ZERO - Fifteen_101
+  - first:
+      213: -4642742432152227348
+    second: PC Computer - Katana ZERO - Fifteen_102
+  - first:
+      213: 4589039035113913375
+    second: PC Computer - Katana ZERO - Fifteen_103
+  - first:
+      213: -2809436349799563043
+    second: PC Computer - Katana ZERO - Fifteen_104
+  - first:
+      213: 8081263559021516101
+    second: PC Computer - Katana ZERO - Fifteen_105
+  - first:
+      213: -7340707723805481118
+    second: PC Computer - Katana ZERO - Fifteen_106
+  - first:
+      213: -3438591709376320733
+    second: PC Computer - Katana ZERO - Fifteen_107
+  - first:
+      213: -5140952935893554966
+    second: PC Computer - Katana ZERO - Fifteen_108
+  - first:
+      213: -1322722677446637459
+    second: PC Computer - Katana ZERO - Fifteen_109
+  - first:
+      213: 9219271230330095834
+    second: PC Computer - Katana ZERO - Fifteen_110
+  - first:
+      213: -6272718121879001352
+    second: PC Computer - Katana ZERO - Fifteen_111
+  - first:
+      213: 3522224913945744349
+    second: PC Computer - Katana ZERO - Fifteen_112
+  - first:
+      213: 6650789254734938790
+    second: PC Computer - Katana ZERO - Fifteen_113
+  - first:
+      213: -2284336721574333114
+    second: PC Computer - Katana ZERO - Fifteen_114
+  - first:
+      213: -5088644258764629726
+    second: PC Computer - Katana ZERO - Fifteen_115
+  - first:
+      213: -3697105238073865924
+    second: PC Computer - Katana ZERO - Fifteen_116
+  - first:
+      213: -4116838337913645400
+    second: PC Computer - Katana ZERO - Fifteen_117
+  - first:
+      213: 3644488829308131810
+    second: PC Computer - Katana ZERO - Fifteen_118
+  - first:
+      213: 8918316768420263070
+    second: PC Computer - Katana ZERO - Fifteen_119
+  - first:
+      213: -8227223644985485172
+    second: PC Computer - Katana ZERO - Fifteen_120
+  - first:
+      213: 5501669411952348251
+    second: PC Computer - Katana ZERO - Fifteen_121
+  - first:
+      213: -2223770055853880985
+    second: PC Computer - Katana ZERO - Fifteen_122
+  - first:
+      213: 8789037845698751602
+    second: PC Computer - Katana ZERO - Fifteen_123
+  - first:
+      213: 4742079080012772957
+    second: PC Computer - Katana ZERO - Fifteen_124
+  - first:
+      213: -1999104733539797075
+    second: PC Computer - Katana ZERO - Fifteen_125
+  - first:
+      213: 8166034246077388111
+    second: PC Computer - Katana ZERO - Fifteen_126
+  - first:
+      213: -3090085056936075013
+    second: PC Computer - Katana ZERO - Fifteen_127
+  - first:
+      213: 6505916225895723379
+    second: PC Computer - Katana ZERO - Fifteen_128
+  - first:
+      213: -7207196836783935171
+    second: PC Computer - Katana ZERO - Fifteen_129
+  - first:
+      213: -2514839597457300870
+    second: PC Computer - Katana ZERO - Fifteen_130
+  - first:
+      213: -7351938216994044651
+    second: PC Computer - Katana ZERO - Fifteen_131
+  - first:
+      213: 1577055330847122657
+    second: PC Computer - Katana ZERO - Fifteen_132
+  - first:
+      213: 3834010887059801247
+    second: PC Computer - Katana ZERO - Fifteen_133
+  - first:
+      213: -7734796825510858268
+    second: PC Computer - Katana ZERO - Fifteen_134
+  - first:
+      213: -2831809602837237360
+    second: PC Computer - Katana ZERO - Fifteen_135
+  - first:
+      213: -3926470107133737769
+    second: PC Computer - Katana ZERO - Fifteen_136
+  - first:
+      213: -9097378665752238813
+    second: PC Computer - Katana ZERO - Fifteen_137
+  - first:
+      213: -3404761428191269248
+    second: PC Computer - Katana ZERO - Fifteen_138
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 872
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bbbb89963d15430800000000000000
+      internalID: 3770026813573282635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 872
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b032e1ebe2779b0800000000000000
+      internalID: -5082542260380038360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 872
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8742f558ccb0c030800000000000000
+      internalID: 3513015277970409356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 872
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce15aa3b57fb5480800000000000000
+      internalID: -8909255466624409913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 872
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d06537639edec20800000000000000
+      internalID: 3237500127221779828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 872
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0ccd30232cbb10800000000000000
+      internalID: 1998510956028365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 872
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b2fb867a4b0b600800000000000000
+      internalID: 482083791238540053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 872
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83f536afe6669f0800000000000000
+      internalID: -475570688952944480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be037874b4f0c200800000000000000
+      internalID: 198427439556398768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0a44ef32bbd790800000000000000
+      internalID: -7504208366600057679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e34d188ad37d830800000000000000
+      internalID: 4095810180058725989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3a820c8cdb1040800000000000000
+      internalID: 4619528336694721704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780e2bd0c79313820800000000000000
+      internalID: 2896159240344494215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f80950865869620800000000000000
+      internalID: 2780556501764312966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed3f35fa27a31d0800000000000000
+      internalID: -3370255273780060435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ead73c5cfa8f450800000000000000
+      internalID: 6122836957333401217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f896fbf4897e90800000000000000
+      internalID: -7027439525826070203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f72b38a3fd3f6d0800000000000000
+      internalID: -2957775087841673338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b653d0f3f9a0200800000000000000
+      internalID: 147105030996323230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080e350029ada260800000000000000
+      internalID: 7110525341679880198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 927
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d6ed1a54c212d0800000000000000
+      internalID: -3309366884836126625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 818
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290cf39f05ff83640800000000000000
+      internalID: 5060074904594923666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 818
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ffb932a97fbed0800000000000000
+      internalID: -2396062739077270513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 818
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003680dfd18247fd0800000000000000
+      internalID: -2345205396688837888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 818
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba062da3cd108a0800000000000000
+      internalID: -6340544655165183226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 818
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682289019e7b0020800000000000000
+      internalID: 2309078395352393835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 818
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453303111e34fe00800000000000000
+      internalID: 1077554453902734661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 766
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d883ad9f927980800000000000000
+      internalID: -8542590043766075213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 766
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15407fc201be7e0800000000000000
+      internalID: -1735275446112333323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 766
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad4e5877e68cd50800000000000000
+      internalID: 6757772700495960724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 766
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eace57424123c3b0800000000000000
+      internalID: -5493510551912920344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 766
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d83bbb0ac01de0800000000000000
+      internalID: -1364368535358746268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 766
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e7c2cf5ca1d4d0800000000000000
+      internalID: -3111516340246550039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 766
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4a1a4f9c380870800000000000000
+      internalID: 8649229739205742501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 766
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470457cdce32c12a0800000000000000
+      internalID: -6765493039999401868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 766
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb778bfa9eae6e0800000000000000
+      internalID: -1807375359512429481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 766
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2438f50d525130800000000000000
+      internalID: 3554005336169132013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 708
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb227ebb0c3bd7da0800000000000000
+      internalID: -5945398292691606852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 708
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c153b83ddc884bb0800000000000000
+      internalID: -4951552908526923327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 708
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1516a0a03b65970800000000000000
+      internalID: 8743372582291591588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82390475eabe0d180800000000000000
+      internalID: -9092508513640344792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71504712d2be59710800000000000000
+      internalID: 1699523013469537559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d841d2880433ea0800000000000000
+      internalID: -5894296533681795757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e8e65b1148cbcc0800000000000000
+      internalID: -3693932382757417341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 708
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f81bf961da0b900800000000000000
+      internalID: 698248254922526504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a26e7e8d5b693440800000000000000
+      internalID: 4916078517818385061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af58934283f3ec0800000000000000
+      internalID: -3585085050128565703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 708
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2615741a437c6f0800000000000000
+      internalID: -664504552722963730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 708
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb01d805f175640800000000000000
+      internalID: 5068554336453312180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 659
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a9ab4b1ede3870800000000000000
+      internalID: 8664606941922304936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 659
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f53623489d8de0800000000000000
+      internalID: -1329238900833126345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 659
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4fb097c1615d880800000000000000
+      internalID: -8586932802966260536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 665
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824a6136044b2920800000000000000
+      internalID: 2966539572943143561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 659
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daba3418fe357050800000000000000
+      internalID: 5797609330521586385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 659
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ff3d7430b0a430800000000000000
+      internalID: 3792224625732089883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 659
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40675149624a69a0800000000000000
+      internalID: -6239101313933156274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 659
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0560f650ddbfb50800000000000000
+      internalID: 6628134292013076693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 665
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78359f8dab8c4d4e0800000000000000
+      internalID: -1957719233169632377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_58
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 659
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c71cbe772ef15a0800000000000000
+      internalID: -6548266328489100166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 616
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b4812c94c50540800000000000000
+      internalID: 4973597538356867655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 617
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add31efba9d07b650800000000000000
+      internalID: 6248477966295186906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 616
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78522ff51c2dfe700800000000000000
+      internalID: 571907405679568263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 616
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7b00d07ef50390800000000000000
+      internalID: -7852590614770385974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 616
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2421ef2614fb9420800000000000000
+      internalID: 2637970382885299246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 616
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7e5b9e15ad2c10800000000000000
+      internalID: 2030460557888223815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 616
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b4e3f52c174790800000000000000
+      internalID: -7546031701304758197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 566
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b27a5abf40b960800000000000000
+      internalID: 7615674631683486099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 565
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794016ed08c6fc20800000000000000
+      internalID: 3239996943959607667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 562
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fbc5470cde4f030800000000000000
+      internalID: 3527705818979680003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 555
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a83c9b98e278a10800000000000000
+      internalID: 1911547735904061955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 568
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd040c0da1fa750800000000000000
+      internalID: 6318298286105091980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f4258ab44a5540800000000000000
+      internalID: 4997382304409383305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_72
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 562
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0b3dbcaa05f1e0800000000000000
+      internalID: -2164812308856238093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 569
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e664b6e0365e690800000000000000
+      internalID: -7573538284773151156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 560
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04185357d18c4fe40800000000000000
+      internalID: 5689392258121826624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_75
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 558
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15695eefd605fc220800000000000000
+      internalID: 2508311950826772049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_76
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 506
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b761b9d1393311f0800000000000000
+      internalID: -1075452999742953543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 507
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b715bdb231a9ad00800000000000000
+      internalID: 984495232860362678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 452
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62675e9e645e00f50800000000000000
+      internalID: 6845723526337754662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 452
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ae5aa26ee2d970800000000000000
+      internalID: 8778340731231052483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 452
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a381976ddf60d60800000000000000
+      internalID: 7856245697590868520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 452
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d977aa10f92a70800000000000000
+      internalID: 8802830943941939872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_82
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 405
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256efee484e6c7220800000000000000
+      internalID: 2484982351242716754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 405
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493e26bab54ca220800000000000000
+      internalID: 2498448561506498891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 405
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26392484f62bb1240800000000000000
+      internalID: 4763597221897868130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 405
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6922fdfde287c40800000000000000
+      internalID: 5510205683143972597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_86
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 405
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013e618c8b0ab010800000000000000
+      internalID: 1205288548369838345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 405
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f12e2a1aa1751a0800000000000000
+      internalID: -6820953829104541872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 405
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c22d0cd84929b80800000000000000
+      internalID: -8389479819291513735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 405
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2334901b69b0de70800000000000000
+      internalID: 9138007513425523498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_90
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772db1bc36f75b590800000000000000
+      internalID: -7659075524687572361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 357
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc612a9c783d602e0800000000000000
+      internalID: -2159806391120685365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 357
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b75f8fda6f13830800000000000000
+      internalID: 4049288767049399046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 357
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810d3a91f4b396a0800000000000000
+      internalID: -6443607692069240448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_94
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 300
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4743ae9f39f708750800000000000000
+      internalID: 6305179751848490100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae184337ffd1cce60800000000000000
+      internalID: 7983789222407733738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_96
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 300
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba216ed9dc1887190800000000000000
+      internalID: -7964473220887342421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 300
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bea0fc7b7a81420800000000000000
+      internalID: 2601013192700914503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 300
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780074e4d3566360800000000000000
+      internalID: 7162504431210072180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_99
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 300
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e7040ebb002b0f0800000000000000
+      internalID: -1102818151831142798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_100
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 249
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a9683f6eefdd20800000000000000
+      internalID: 3305622812968462154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 249
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784d317fe5bc6a70800000000000000
+      internalID: 8821625810113611891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 249
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1fee33b5aa19fb0800000000000000
+      internalID: -4642742432152227348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 249
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbd5c40ba8faf30800000000000000
+      internalID: 4589039035113913375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 249
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0802f5680e209d0800000000000000
+      internalID: -2809436349799563043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 249
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54559cbf36a662070800000000000000
+      internalID: 8081263559021516101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_106
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 184
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ab9ac731902a90800000000000000
+      internalID: -7340707723805481118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 184
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b650b0f0ba740d0800000000000000
+      internalID: -3438591709376320733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 185
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82011fa8aa7a8b0800000000000000
+      internalID: -5140952935893554966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 185
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688072abbeb4ade0800000000000000
+      internalID: -1322722677446637459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 185
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8cdc3965e61ff70800000000000000
+      internalID: 9219271230330095834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_111
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 185
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62f393a14d2f8a0800000000000000
+      internalID: -6272718121879001352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 149
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd354cec5e471e030800000000000000
+      internalID: 3522224913945744349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 140
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2067cf6995c4c50800000000000000
+      internalID: 6650789254734938790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 142
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457e2bcad76c40e0800000000000000
+      internalID: -2284336721574333114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_115
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 140
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d008e1018169b0800000000000000
+      internalID: -5088644258764629726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_116
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 88
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390f53cf5e31bcc0800000000000000
+      internalID: -3697105238073865924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_117
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a692f6f75d0ed6c0800000000000000
+      internalID: -4116838337913645400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_118
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e95acae743d39230800000000000000
+      internalID: 3644488829308131810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_119
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 94
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94791089d934cb70800000000000000
+      internalID: 8918316768420263070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_120
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8812f04fa703dd80800000000000000
+      internalID: -8227223644985485172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 94
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4d0b5e2bd95c40800000000000000
+      internalID: 5501669411952348251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_122
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 94
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769cdae8ae49321e0800000000000000
+      internalID: -2223770055853880985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_123
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 94
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca656ba5fe8f970800000000000000
+      internalID: 8789037845698751602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_124
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 94
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f8f47ccf3fc140800000000000000
+      internalID: 4742079080012772957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_125
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 94
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7fe8826d0c144e0800000000000000
+      internalID: -1999104733539797075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_126
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 94
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451e1d91e4935170800000000000000
+      internalID: 8166034246077388111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_127
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 94
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0259f3300dd15d0800000000000000
+      internalID: -3090085056936075013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_128
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f6fe6658a94a50800000000000000
+      internalID: 6505916225895723379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31bc2d89a4eafb90800000000000000
+      internalID: -7207196836783935171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_130
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 45
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a876d5be791dd0800000000000000
+      internalID: -2514839597457300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 43
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158375d42ba8f990800000000000000
+      internalID: -7351938216994044651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_132
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 43
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46742c773d2e510800000000000000
+      internalID: 1577055330847122657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_133
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 46
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940e2c9694253530800000000000000
+      internalID: 3834010887059801247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_134
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13b95944b78a490800000000000000
+      internalID: -7734796825510858268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_135
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 46
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b8577b2463b8d0800000000000000
+      internalID: -2831809602837237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_136
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 43
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48a1bad306289c0800000000000000
+      internalID: -3926470107133737769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_137
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 43
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ee90bd4e9fb180800000000000000
+      internalID: -9097378665752238813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Katana ZERO - Fifteen_138
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e25bf258bdfb0d0800000000000000
+      internalID: -3404761428191269248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
