@@ -1,7 +1,46 @@
 fileFormatVersion: 2
 guid: 69fecbfa5b54ac347bda5d9a15343d48
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3063046324820687454
+    second: victorious_0
+  - first:
+      213: -8180306633839360602
+    second: victorious_1
+  - first:
+      213: 78291796534157923
+    second: victorious_2
+  - first:
+      213: 4041867637484339276
+    second: victorious_3
+  - first:
+      213: 6623914136326446223
+    second: victorious_4
+  - first:
+      213: 1394758730158697239
+    second: victorious_5
+  - first:
+      213: 3966592571588400321
+    second: victorious_6
+  - first:
+      213: 6190226921234174441
+    second: victorious_7
+  - first:
+      213: 13953423521521505
+    second: victorious_8
+  - first:
+      213: -5357812431450780294
+    second: victorious_9
+  - first:
+      213: -8247563470254619749
+    second: victorious_10
+  - first:
+      213: 4512542061846251418
+    second: victorious_11
+  - first:
+      213: 1695065987844041772
+    second: victorious_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -85,7 +124,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: victorious_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab0895760228a20800000000000000
+      internalID: 3063046324820687454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5cb382576b97e80800000000000000
+      internalID: -8180306633839360602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ee3169f5261100800000000000000
+      internalID: 78291796534157923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c6699339971830800000000000000
+      internalID: 4041867637484339276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c1d6edfcedceb50800000000000000
+      internalID: 6623914136326446223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71beb72ecad2b5310800000000000000
+      internalID: 1394758730158697239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4da3e8dea2c0730800000000000000
+      internalID: 3966592571588400321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1193f669a18e550800000000000000
+      internalID: 6190226921234174441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f96649092913000800000000000000
+      internalID: 13953423521521505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d44320bf935a5b0800000000000000
+      internalID: -5357812431450780294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b934cf4a8b4ca8d80800000000000000
+      internalID: -8247563470254619749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97ca56c815cf9e30800000000000000
+      internalID: 4512542061846251418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorious_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6a4cf885168710800000000000000
+      internalID: 1695065987844041772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
